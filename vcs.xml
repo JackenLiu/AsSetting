@@ -46,6 +46,10 @@
           <option name="url" value="https://github.com/google-developer-training/android-advanced.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/sigute/WidgetsDemo.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/Library/Mobile Documents/com~apple~CloudDocs/Code/GithubDemos" />
