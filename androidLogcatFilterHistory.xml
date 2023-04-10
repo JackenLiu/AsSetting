@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="" />
+    <option name="mostRecentlyUsed" value="com.github.sigute.widgets" />
     <option name="nonFavorites">
       <list>
+        <option value="com.github.sigute.widgets" />
         <option value="com.zerone.hidesktop" />
         <option value="net.oneplus.launcher widget" />
         <option value="net.oneplus.launcher" />
