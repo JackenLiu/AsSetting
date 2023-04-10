@@ -34,9 +34,13 @@
           <option name="url" value="https://github.com/Pangu-Immortal/Kbogla.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/jayantur13/android-shortcuts.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/Desktop" />
+    <option name="cloneParentDir" value="$USER_HOME$/Library/Mobile Documents/com~apple~CloudDocs/Code/GithubDemos" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="COLUMN_ID_ORDER">
