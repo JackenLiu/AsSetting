@@ -58,6 +58,10 @@
           <option name="url" value="https://github.com/Marchuck/AppWidgetDemo.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/joakime/android-appwidget-toy.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/Library/Mobile Documents/com~apple~CloudDocs/Code/GithubDemos" />
