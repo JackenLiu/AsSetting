@@ -23,6 +23,17 @@
         <target value="Android 10.0" />
         <api value="androidversion:29:null:null:true" />
       </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="69D6MJCQ8PLZT8EA" />
+          </Key>
+        </key>
+        <name value="vivo V1934A" />
+        <target value="Android 9.0" />
+        <api value="androidversion:28:null:null:true" />
+      </PhysicalDevice>
     </physicalDevices>
   </component>
 </application>
