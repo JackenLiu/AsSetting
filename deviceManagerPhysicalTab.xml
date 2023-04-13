@@ -41,9 +41,8 @@
             <value value="AEUN9X2217G01721" />
           </Key>
         </key>
-        <name value="HONOR KOZ-AL00" />
-        <target value="Android 10.0" />
-        <api value="androidversion:29:null:null:true" />
+        <name value="Device" />
+        <target value="Android 1.0" />
       </PhysicalDevice>
     </physicalDevices>
   </component>
