@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="" />
+    <option name="mostRecentlyUsed" value="com.jtxm.pipi.wallpaper" />
     <option name="nonFavorites">
       <list>
+        <option value="com.jtxm.pipi.wallpaper" />
         <option value="com.zerone.hidesktop" />
         <option value="package:com.zerone.hidesktop" />
         <option value="com.github.sigute.widgets" />
