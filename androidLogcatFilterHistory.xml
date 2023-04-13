@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="com.jtxm.pipi.wallpaper" />
+    <option name="mostRecentlyUsed" value=" httpSecondStay" />
     <option name="nonFavorites">
       <list>
+        <option value=" httpSecondStay" />
+        <option value=" httpSecondStay Response" />
         <option value="com.jtxm.pipi.wallpaper" />
         <option value="com.zerone.hidesktop" />
         <option value="package:com.zerone.hidesktop" />
